@@ -22,4 +22,8 @@ This Python project utilizes the YouTube Data API and Streamlit to create a web-
 4. Run the app via `streamlit run youtube_playlist_duration_counter`.
 5. Enter a YouTube playlist URL and instantly view its total duration.
 
+OR
+
+Direct access link to the webapp - https://youtube-playlist-duration-calculator.streamlit.app
+
 Explore and utilize this project effortlessly to calculate the comprehensive duration of your preferred YouTube playlists!
